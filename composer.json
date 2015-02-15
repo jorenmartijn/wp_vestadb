@@ -1,0 +1,19 @@
+{
+    "name": "jorenmartijn/vesta-database",
+    "description": "Vestachem database",
+    "require": {
+        "composer/installers": "~1.0",
+        "phpoffice/phpexcel": "~1.8",
+        "guzzlehttp/guzzle": "~4.0",
+        "illuminate/cache": "4.x",
+        "illuminate/filesystem": "4.x",
+        "illuminate/database": "4.x"
+
+    },
+    "authors": [
+        {
+            "name": "Joren de Graaf",
+            "email": "jorendegraaf@gmail.com"
+        }
+    ]
+}
